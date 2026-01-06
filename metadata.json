@@ -1,0 +1,7 @@
+{
+  "name": "KidsBox Learning Explorer",
+  "description": "An interactive educational companion for the Kids Box English series, covering the first ten units with vocabulary, grammar, and AI-powered practice exercises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
